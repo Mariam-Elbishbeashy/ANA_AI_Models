@@ -6,7 +6,7 @@ import numpy as np
 from keras.models import load_model
 
 # ================== PATHS ==================
-EMOTION_MODEL_PATH = "model_file_30epochs.h5"
+EMOTION_MODEL_PATH = "EmotionRecognition.h5"
 PROTOTXT_PATH = "deploy.prototxt"
 CAFFEMODEL_PATH = "res10_300x300_ssd_iter_140000.caffemodel"
 
